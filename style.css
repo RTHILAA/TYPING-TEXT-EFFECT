@@ -29,7 +29,7 @@ span {
     text-wrap: nowrap;
     overflow: hidden;
     text-align: center;
-    animation: typing 3s steps(30) infinite alternate-reverse;
+    animation: typing 3s steps(50) infinite alternate-reverse;
 }
 
 @keyframes typing {
